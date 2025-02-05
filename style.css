@@ -94,7 +94,10 @@ body{
 #send-button{
     padding: 10px 20px;
     background-color: aqua;
-    color: floralwhite;
+    
+
+    color: rgb(86, 76, 193);
+
     border: none;
     border-radius: 5px;
     margin-left: 10px;
